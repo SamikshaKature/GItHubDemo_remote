@@ -7,9 +7,11 @@
 
 import SwiftUI
 
-struct ContentView: View {
+struct ContentView:
+    //this is a trial run
+    View {
     var body: some View {
-        Text("Hello, world!")
+        Text("This is a test")
             .padding()
     }
 }
